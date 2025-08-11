@@ -12,13 +12,6 @@ The goal is to recreate this mechanic in a new game, offering a fun and unique g
 
 ---
 
-## 🛠 How It Works
-
-When activated, the player character turns into a moving shell that keeps rolling forward, breaking obstacles and interacting with enemies along the way.  
-This creates a fast-paced style of gameplay and opens up creative possibilities for level design.
-
----
-
 ## 💻 Technology Stack
 
 - **Engine:** GameMaker
