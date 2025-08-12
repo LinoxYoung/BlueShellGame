@@ -22,6 +22,6 @@ The goal is to recreate this mechanic in a new game, offering a fun and unique g
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 © 2025 **Blue Chell Dev Team**
