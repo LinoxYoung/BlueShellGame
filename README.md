@@ -1,4 +1,4 @@
-# 🐢 Blue Shell Mechanic Game
+# 🐢 Blue Chell Mechanic Game
 
 This project is inspired by the Blue Shell mechanic from *New Super Mario Bros.*, where the player character transforms into a shell that moves forward automatically, regardless of the player's direct action.  
 The goal is to recreate this mechanic in a new game, offering a fun and unique gameplay experience.
@@ -20,6 +20,8 @@ The goal is to recreate this mechanic in a new game, offering a fun and unique g
 
 ---
 
-## 📜 License
+## License
 
-This project is for educational and non-commercial purposes only.
+This project is licensed under the [MIT License](LICENSE).
+
+© 2025 **Blue Chell Dev Team**
